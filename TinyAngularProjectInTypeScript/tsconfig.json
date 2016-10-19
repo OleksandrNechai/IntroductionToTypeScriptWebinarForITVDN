@@ -1,0 +1,12 @@
+{
+    "include":[
+        "ps-movies/*.ts",
+        "node_modules/@types/**/*.ts"
+    ],
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "skipLibCheck": true,
+        "noImplicitThis": true
+    }
+}

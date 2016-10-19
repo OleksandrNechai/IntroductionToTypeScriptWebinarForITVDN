@@ -1,0 +1,12 @@
+{
+  "name": "ts-webinar",
+  "version": "1.0.0",
+  "description": "Preparetion for the webinar on TS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Oleksandr Nechai",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
